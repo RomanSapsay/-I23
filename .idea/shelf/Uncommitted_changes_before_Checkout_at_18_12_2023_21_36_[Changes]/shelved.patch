@@ -1,0 +1,42 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"ba5eed5c-ac80-46d4-ae0c-56941f8c0a08\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"1\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"git-widget-placeholder\": \"BuilderPattern\",\r\n    \"last_opened_file_path\": \"C:/Users/Lenovo/IdeaProjects/Fundamentals_of_software_engineering/src/Patterns/Builder\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Lenovo\\IdeaProjects\\Fundamentals_of_software_engineering\\src\\Patterns\\Builder\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"EmployeeBuilder\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Patterns.Builder.EmployeeBuilder\" />\r\n      <module name=\"Fundamentals_of_software_engineering\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Patterns.Builder.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.EmployeeBuilder\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <servers />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,9 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="ba5eed5c-ac80-46d4-ae0c-56941f8c0a08" name="Changes" comment="">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="ba5eed5c-ac80-46d4-ae0c-56941f8c0a08" name="Changes" comment="Завдання &quot;Builder&quot;&#10;&#10;- реалізувати паттерн&#10;- закомітити код в репозиторій&#10;- створити пулл-реквест на main гілку&#10;- прикріпити посилання на пуллрекввест як результат виконання завдання." />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -61,6 +59,19 @@
+     </recent_temporary>
+   </component>
+   <component name="TaskManager">
++    <task id="LOCAL-00001" summary="Завдання &quot;Builder&quot;&#10;&#10;- реалізувати паттерн&#10;- закомітити код в репозиторій&#10;- створити пулл-реквест на main гілку&#10;- прикріпити посилання на пуллрекввест як результат виконання завдання.">
++      <option name="closed" value="true" />
++      <created>1702875481699</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1702875481699</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="Завдання &quot;Builder&quot;&#10;&#10;- реалізувати паттерн&#10;- закомітити код в репозиторій&#10;- створити пулл-реквест на main гілку&#10;- прикріпити посилання на пуллрекввест як результат виконання завдання." />
++    <option name="LAST_COMMIT_MESSAGE" value="Завдання &quot;Builder&quot;&#10;&#10;- реалізувати паттерн&#10;- закомітити код в репозиторій&#10;- створити пулл-реквест на main гілку&#10;- прикріпити посилання на пуллрекввест як результат виконання завдання." />
++  </component>
+ </project>
+\ No newline at end of file
